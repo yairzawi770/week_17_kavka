@@ -16,3 +16,4 @@ TOPIC_NAME = "data"
 
 producer = {"bootstrap.servers": KAFKA_BOOTSTRAP_SERVERS}
 producer = Producer(producer)
+
